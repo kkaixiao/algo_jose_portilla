@@ -11,5 +11,4 @@ def anagram(s1, s2):
     return len(str2) == 0
 
 
-
 print(anagram('how are you', 'you arethow'))
