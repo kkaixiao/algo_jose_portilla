@@ -22,4 +22,4 @@ def large_cont_sum(arr):
 
 arr1 = [1, 2, -1, 3, 4, 10, 10, -10, -1]
 
-large_cont_sum(arr1)
+print(large_cont_sum(arr1))
