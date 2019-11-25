@@ -17,6 +17,6 @@ def compress(s):
     return ret_str
 
 
-str1 = 'AAAAABBBBCCCDDDD'
+str1 = 'AAAAABBBBCCCDDDDF'
 
 print(compress(str1))
